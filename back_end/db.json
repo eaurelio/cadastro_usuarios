@@ -1,0 +1,20 @@
+{
+  "users": [
+    {
+      "name": "Edson Aurélio",
+      "email": "edson.exe@outlook.com",
+      "endereco": "Av Selva de Pedra, 350",
+      "fone": "77 98123-6226",
+      "cidade": "Barreiras",
+      "id": 1
+    },
+    {
+      "name": "Carine",
+      "email": "karynesam@hotmail.com",
+      "endereco": "Av Selva de Pedra, 350",
+      "fone": "77 99929-9675",
+      "cidade": "Barreiras",
+      "id": 2
+    }
+  ]
+}
